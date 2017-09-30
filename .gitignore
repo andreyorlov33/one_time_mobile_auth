@@ -1,0 +1,4 @@
+node_modules
+credentials.js
+./funtions/node_modules
+serviceAccount.json
